@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/tu1511"><img width="80%" alt="Hello, I'm Minh Tu." src="./assets/Bg_github_mt15.png.png" /></a></p>
+<p align="center"><a href="https://github.com/tu1511"><img width="80%" alt="Hello, I'm Minh Tu." src="./assets/Bg_github_mt15.png" /></a></p>
 
 **About me**
 
