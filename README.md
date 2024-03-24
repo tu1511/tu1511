@@ -28,8 +28,8 @@
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" width="40" height="40" /></a>  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"></a>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=tu1511&show_icons=true&count_private=true&hide_border=true" align="center"/></a> | <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tu1511&theme=tokyonight&background=ffffff" alt="GitHub Streak" /></a> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=tu1511&show_icons=true&count_private=true&hide_border=true" align="center"/></a> | <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tu1511&theme=tokyonight&background=ffffff&hide_border=true" alt="GitHub Streak" /></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <details>
   <summary><b>Most Used Languages</b></summary><br>
